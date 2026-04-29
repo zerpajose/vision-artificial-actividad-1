@@ -1,0 +1,34 @@
+Actividad 1: Laboratorio. Mejora de imagen: operaciones elementales
+
+Introducción
+
+El procesamiento digital de imágenes es una herramienta fundamental en numerosas disciplinas científicas y técnicas. La mejora de imagen, como tarea central del preprocesamiento, tiene como objetivo optimizar la calidad visual, corregir imperfecciones y resaltar detalles clave, aspectos que son cruciales para la interpretación adecuada en contextos como la medicina, la visión por computadora o la teledetección. Es importante destacar que la aplicación de estas técnicas debe adaptarse a las particularidades de cada tipo de imagen y problema: lo que funciona para una imagen de rayos X puede no resultar óptimo para imágenes de satélite.
+
+Objetivos 
+
+Los objetivos de la actividad son:
+
+    • Mejorar las imágenes seleccionadas aplicando diversas técnicas de procesamiento previamente estudiadas: funciones de ajuste de intensidad, procesamiento del histograma y operadores aritméticos.
+    • Realizar una comparación detallada de la eficacia de estas técnicas, identificando sus limitaciones y discutiendo posibles soluciones.
+
+
+
+Pautas de elaboración
+
+En este laboratorio se trabajará con cuatro imágenes seleccionadas por el alumno de la base de datos The Dark Face (Yang, W. et al. (2020). Advancing Image Understanding in Poor Visibility Environments: A Collective Benchmark Study. IEEE Transactions on Image Processing, 29 (2020), 5737-5752.). Esta colección proporciona 6000 imágenes reales obtenidas bajo condiciones de baja iluminación nocturna en entornos muy variados, como calles, edificios educativos, puentes o parques, lo que ofrece un reto específico para las técnicas de mejora y análisis.
+
+Este enfoque integral facilita la aplicación práctica de los conceptos teóricos y fomenta el análisis crítico, impulsando la exploración de soluciones innovadoras para la optimización de imágenes en condiciones adversas.
+
+Instrucciones para la redacción de la memoria explicativa 
+
+La memoria explicativa deberá presentarse con el formato propio de un artículo científico y entregarse en archivo PDF, siguiendo las especificaciones de formato y extensión indicadas en la rúbrica de evaluación.  A continuación, se detallan las orientaciones específicas para la estructuración y redacción de cada sección del documento:
+
+    • El resumen debe constituir una síntesis precisa del objetivo de la actividad, los principales resultados alcanzados y las conclusiones obtenidas. Esta sección ha de condensar la información esencial del informe de modo que el lector, únicamente con su lectura, comprenda el propósito del laboratorio, los hallazgos más relevantes y las aportaciones fundamentales del trabajo.
+    • La introducción debe contextualizar la relevancia de la mejora de imágenes en el ámbito del procesamiento digital, resaltando su influencia en la calidad, interpretabilidad y utilidad de la información visual en disciplinas como la medicina, la visión por computador y la teledetección. Asimismo, resulta conveniente explicar brevemente el preprocesamiento de imágenes y justificar cómo las técnicas examinadas en este laboratorio constituyen herramientas esenciales para optimizar la información visual antes de la aplicación de métodos analíticos avanzados.
+    • La sección Material y métodos debe iniciar indicando el software de procesamiento, el conjunto de imágenes utilizadas y una breve descripción de sus características (origen, resolución, profundidad de color). Es imprescindible detallar las técnicas de mejora aplicadas empleando una redacción formal y general que no dependa de lenguajes de programación concretos. Además, el procedimiento experimental debe exponerse paso a paso, asegurando claridad y permitiendo la replicación íntegra del estudio. Toda la información debe presentarse de forma directa y estructurada, evitando repeticiones y proporcionando justificación de cada decisión metodológica. 
+    • La sección Resultados debe incluir el análisis comparativo de las imágenes antes y después del procesamiento, utilizando tablas, gráficos y figuras para mostrar el impacto visual de cada técnica aplicada. Es importante optimizar el espacio disponible priorizando la presentación y discusión de los resultados más relevantes y representativos. Se recomienda interpretar los cambios observados (por ejemplo, en histogramas e indicadores de contraste), destacando cómo las técnicas empleadas afectaron a la visibilidad de los detalles, la eliminación de ruido y el realce de características clave.
+    • La sección Conclusiones debe sintetizar los principales hallazgos obtenidos, valorar la eficacia de cada técnica de mejora aplicada y señalar sus limitaciones, como la generación de artefactos. Es recomendable identificar qué métodos resultaron más efectivos según las imágenes y proponer mejoras o líneas futuras para optimizar los resultados.
+    • Declaración sobre el uso de IA: el informe deberá incluir una declaración final especificando, con rigor y transparencia, si se han utilizado herramientas de inteligencia artificial (IA), por ejemplo, ChatGPT, Copilot, Grammarly, u otras, y con qué propósito, indicando el ajuste a las normas éticas y la contribución crítica propia. En caso de no haberse utilizado IA generativa, deberá indicarse explícitamente y de forma razonada. La rúbrica no penalizará el uso de estas herramientas siempre que se cumpla el principio de transparencia total y se mantenga la integridad académica del trabajo.
+    • La sección Referencias debe recopilar todas las fuentes consultadas para fundamentar y justificar las técnicas de mejora de imagen aplicadas. Es obligatorio citar libros, artículos, manuales y recursos relevantes, respetando el formato indicado (APA o IEEE).
+
+Nota: si algunos detalles técnicos, cálculos extensos o ejemplos adicionales complementan el análisis sin ser esenciales en el cuerpo principal del informe, pueden incluirse en los anexos. Estos deben estar bien organizados, numerados y titulados de manera clara, asegurando que se haga referencia a ellos en el texto cuando sea necesario. De este modo, se mantiene la claridad y fluidez del informe sin omitir información relevante.
